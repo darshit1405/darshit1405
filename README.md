@@ -62,15 +62,6 @@ Currently building strong foundations in **Python, SQL, Statistics, and Data Ana
 * 📈 GDP Analysis
   → Studied economic indicators and trends through data analysis
 
-* 🏥 Diabetes Prediction
-  → Built a classification model to predict diabetes risk using machine learning
-
-* 🏠 House Price Prediction
-  → Developed regression models to estimate property prices
-
-* 🧑‍🤝‍🧑 Customer Segmentation
-  → Applied clustering techniques to group customers based on behavior
-
 
 ---
 
