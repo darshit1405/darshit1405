@@ -87,9 +87,18 @@ With a strong focus on transforming the agriculture sector using AI.
 
 ## 💡 What Makes Me Different
 
-* Strong focus on **real-world problem solving**
-* Combining **data analysis with domain understanding**
+* Strong focus on real-world problem solving
+* Ability to combine data analysis with domain understanding
 * Continuous learner with a goal-driven mindset
+
+---
+
+## 🇮🇳 Mission
+
+* To contribute to nation-building through advancements in the technology sector
+* To work with integrity, honesty, and responsibility towards the organization and society
+* To continuously improve and apply my skills to solve impactful real-world problems
+
 
 ---
 
