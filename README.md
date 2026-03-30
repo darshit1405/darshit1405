@@ -46,32 +46,16 @@ Currently building strong foundations in **Python, SQL, Statistics, and Data Ana
 * Strengthening **Statistics & Probability**
 * Preparing for **Data Scientist & AIML Engineer roles**
 
----
-
-## 📌 Featured Data Science & AIML Projects
-
-* 📊 Black Friday Sales Analysis
-  → Performed data cleaning, EDA, and identified key factors influencing customer purchasing behavior
-
-* 🌾 Sugarcane Production Analysis
-  → Analyzed agricultural data to understand crop yield patterns and productivity trends
-
-* ❤️ Heart Disease Data Visualization
-  → Explored medical dataset to identify risk factors and correlations using visualization techniques
-
-* 📈 GDP Analysis
-  → Studied economic indicators and trends through data analysis
-
 
 ---
 
 ## 🏆 Career Goal
 
-To become a Data Scientist / AIML Engineer focused on applying artificial intelligence to solve real-world problems through data-driven innovation.
+To become a Data Scientist / AI-ML Engineer focused on solving real-world problems through data-driven innovation.
 
-I aspire to contribute to building India's own robust AI platforms, enabling technological self-reliance and reducing dependency on global AI systems.
+I aim to contribute to building India’s indigenous AI ecosystem, promoting technological self-reliance and reducing dependency on global AI systems.
 
-With a strong focus on transforming the agriculture sector using AI.
+Furthermore, I aspire to integrate AI with agriculture to enhance farmers' livelihoods, making them more efficient, sustainable, and prosperous.
 
 
 ---
