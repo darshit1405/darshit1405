@@ -45,7 +45,7 @@ Currently building strong foundations in **Python, SQL, Statistics, and Data Ana
 * Building **end-to-end Data Analysis projects**
 * Strengthening **Statistics & Probability**
 * Preparing for **Data Scientist & AIML Engineer roles**
-
+* 🧑‍💻 Actively practicing and improving Python skills through the Python Institute platform
 
 ---
 
@@ -65,7 +65,7 @@ Furthermore, I aspire to integrate AI with agriculture to enhance farmers' livel
 * Strong focus on real-world problem solving
 * Ability to combine data analysis with domain understanding
 * Continuous learner with a goal-driven mindset
-
+* Leadership experience through NGO involvement, enhancing teamwork, communication, and responsibility
 ---
 
 ## 🇮🇳 Mission
